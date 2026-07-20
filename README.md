@@ -57,5 +57,5 @@ The following insights were generated;
 - Year of service column was created by using the "datedif" function
 - Performance band and eligible bonus Columns were created using "ifs" function
 
-! [ Dashboard ] ( HR_IMAGE/dashboard. png )
+
 
