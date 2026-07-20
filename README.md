@@ -4,14 +4,14 @@
 
 This project focuses on cleaning, transforming, analyzing, and visualizing HR data using Microsoft Excel. The objective was to convert a raw HR dataset into an interactive dashboard this include cleaning and transforming raw HR data into a reliable data, analysis, building interactive Pivot Tables and Pivot Charts, creating an executive HR dashboard and generating actionable business insights.
 
-1. **Key Findings**
+1. **##Key Findings**
 
 - Total Workforce : 150 employees across 6 Departments.
 - Overall Attrition Rate: 23%
 - Overall Average Salary: ~$84,000
 - Average performance Scores are similar between Active and Left Employees, implying others factors drive attrition.
 
-2. **Insights**
+2. **##Insights**
 
 The following insights were generated;
 
@@ -37,7 +37,7 @@ The following insights were generated;
 - The bonus payout analysis shows that employees within the Achieving performance band receive the highest total bonus payout, indicating that the organization's bonus structure is aligned with employee performance and rewards achievement.
 
 
-3. **Recommendations**
+3. **##Recommendations**
 
 - Improve employee retention strategies within the Operations department.
 - Review salary competitiveness in departments experiencing high attrition.
@@ -45,7 +45,7 @@ The following insights were generated;
 - Continue rewarding high-performing employees through performance-based incentives.
 - Implement continuous HR monitoring using interactive dashboards.
 
-## Data Cleaning Summary
+ **Data Cleaning Summary**
 
 - Data was turned in to a table format and duplicates were removed using the employee ID column.
 - Hire date column was formatted into date data type and text to column was used to correct the inconsistency and errors.
