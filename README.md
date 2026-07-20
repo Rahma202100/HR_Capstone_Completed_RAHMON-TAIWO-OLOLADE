@@ -11,7 +11,7 @@ This project focuses on cleaning, transforming, analyzing, and visualizing HR da
 - Overall Average Salary: ~$84,000
 - Average performance Scores are similar between Active and Left Employees, implying others factors drive attrition.
 
-2. ##Insights
+## 2. **Insights**
 
 The following insights were generated;
 
@@ -37,7 +37,7 @@ The following insights were generated;
 - The bonus payout analysis shows that employees within the Achieving performance band receive the highest total bonus payout, indicating that the organization's bonus structure is aligned with employee performance and rewards achievement.
 
 
-3. ##Recommendations
+## 3. **Recommendations**
 
 - Improve employee retention strategies within the Operations department.
 - Review salary competitiveness in departments experiencing high attrition.
