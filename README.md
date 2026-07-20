@@ -4,7 +4,7 @@
 
 This project focuses on cleaning, transforming, analyzing, and visualizing HR data using Microsoft Excel. The objective was to convert a raw HR dataset into an interactive dashboard this include cleaning and transforming raw HR data into a reliable data, analysis, building interactive Pivot Tables and Pivot Charts, creating an executive HR dashboard and generating actionable business insights.
 
-1. ##Key Findings
+## 1. **Key Findings**
 
 - Total Workforce : 150 employees across 6 Departments.
 - Overall Attrition Rate: 23%
